@@ -1,0 +1,27 @@
+{
+  "student_folder": "/Users/robertberg/Documents/intro_to_ai_sy2526/per4/grading/assignment5-per4-submissions/assignment5-per4-miguelm2026",
+  "code_points": 10,
+  "code_feedback": [
+    "\u2713 Successfully imported student code",
+    "\u2713 Board initialization works",
+    "\u2713 find_most_constrained_cell returns tuple",
+    "\u2713 failure_test works correctly",
+    "\u2713 goal_test works correctly",
+    "\u2713 update function works",
+    "\u2713 DFS function exists",
+    "\u2713 BFS function exists"
+  ],
+  "writeup_points": 5.0,
+  "writeup_feedback": [
+    "DEBUG: Q1 length: 835, Q2 length: 352, Q3 length: 695",
+    "\u2713 Question 1 answered (1.5/1.5)",
+    "\u2713 Question 2 answered (1.5/1.5)",
+    "Question 3 score: 2.0/2.0",
+    "  \u2713 Mentions both Stack and Queue",
+    "  \u2713 Shows understanding of LIFO/FIFO concepts",
+    "  \u2713 Connects Stack/Queue to DFS/BFS",
+    "  \u2713 Substantial explanation provided"
+  ],
+  "total_points": 15.0,
+  "total_possible": 15
+}
